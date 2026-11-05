@@ -1,0 +1,18 @@
+PATRIMONIO — VERSIONE LOCALE GRATUITA
+
+COME USARLA
+PC: apri index.html in un browser. Inserisci i dati e premi Salva mese.
+iPhone/iPad: per usarla comodamente dalla schermata Home serve pubblicare SOLO i file statici su un hosting HTTPS gratuito. In alternativa puoi aprire index.html dall’app File, ma il comportamento del salvataggio locale può variare e non è una soluzione affidabile per lo storico.
+
+ATTENZIONE AI DATI
+I dati sono conservati nel browser del singolo dispositivo, NON sincronizzati. Ogni browser/indirizzo web può avere un archivio separato. Per trasferire: Dati > Esporta backup JSON sul dispositivo A, poi Dati > Importa backup JSON sul dispositivo B. L'importazione SOSTITUISCE l'archivio esistente sul dispositivo B.
+Esegui un backup dopo ogni aggiornamento e prima di cambiare dispositivo o cancellare la cronologia. Conserva il JSON nell'app File o su una memoria esterna. Non usare la navigazione privata.
+
+REGISTRAZIONE
+A fine mese inserisci i saldi effettivi dei conti, lo stipendio ricevuto, i nuovi versamenti e il valore di mercato complessivo degli investimenti. Il patrimonio = somma saldi conti + valore investimenti. Il trasferimento da conto a investimento non è un guadagno.
+
+COSTI
+Il codice è statico e non richiede database, API, account o servizi a pagamento.
+
+INVESTIMENTI SEPARATI
+La sezione Registra ora consente di gestire ETF, Bitcoin (BTC), Ethereum (ETH) e altri investimenti, ciascuno con versamenti, prelievi e valore a fine mese. La dashboard somma i valori, senza contare i versamenti come nuove entrate. I backup precedenti rimangono importabili: i valori aggregati preesistenti vengono presentati come 'Portafoglio precedente'.
