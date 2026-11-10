@@ -16,3 +16,9 @@ Il codice è statico e non richiede database, API, account o servizi a pagamento
 
 INVESTIMENTI SEPARATI
 La sezione Registra ora consente di gestire ETF, Bitcoin (BTC), Ethereum (ETH) e altri investimenti, ciascuno con versamenti, prelievi e valore a fine mese. La dashboard somma i valori, senza contare i versamenti come nuove entrate. I backup precedenti rimangono importabili: i valori aggregati preesistenti vengono presentati come 'Portafoglio precedente'.
+
+NOVITÀ VERSIONE AGGIORNATA
+- Storico > Modifica: seleziona una registrazione, cambia il mese in Registra e premi Salva mese. Tutti i dati vengono spostati al nuovo mese; se il mese di destinazione contiene già dati, viene chiesta conferma prima di sovrascrivere.
+- Dati > Esporta Excel completo: scarica un vero file .xlsx con 4 fogli (Riepilogo, Dettaglio mensile, Conti, Investimenti), inclusi note, stipendi, entrate, saldi per conto, valori/versamenti/prelievi per investimento e indicatori calcolati.
+- Corretto il layout del selettore mese per schermi iPhone stretti.
+- Carica su GitHub tutti i file della cartella, COMPRESO export-xlsx.js. Per sicurezza esporta prima un backup JSON dalla versione precedente.
